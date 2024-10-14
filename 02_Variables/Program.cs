@@ -149,7 +149,8 @@ namespace _02_Variables
 
             #endregion
            
-            
+            //14.10.2024
+
             Console.Read();
 
         }
