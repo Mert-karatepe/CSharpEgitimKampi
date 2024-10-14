@@ -1,0 +1,7 @@
+C:\Users\Mert KARATEPE\Desktop\Murat Yücedağ eğitim\MyEgitim\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe.config
+C:\Users\Mert KARATEPE\Desktop\Murat Yücedağ eğitim\MyEgitim\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.exe
+C:\Users\Mert KARATEPE\Desktop\Murat Yücedağ eğitim\MyEgitim\CSharpEgitimKampi\01_MainSubjects\bin\Debug\01_MainSubjects.pdb
+C:\Users\Mert KARATEPE\Desktop\Murat Yücedağ eğitim\MyEgitim\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\Mert KARATEPE\Desktop\Murat Yücedağ eğitim\MyEgitim\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\Mert KARATEPE\Desktop\Murat Yücedağ eğitim\MyEgitim\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.exe
+C:\Users\Mert KARATEPE\Desktop\Murat Yücedağ eğitim\MyEgitim\CSharpEgitimKampi\01_MainSubjects\obj\Debug\01_MainSubjects.pdb
