@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_MainSubjects", "01_MainSubjects\01_MainSubjects.csproj", "{4A1A7289-CB8B-470A-8C7E-33EC0F55D4E1}"
 EndProject
@@ -22,6 +22,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_DatabaseProject", "09_DatabaseProject\09_DatabaseProject.csproj", "{3A4C799F-90F1-4A1D-9367-36D5E31A0ABB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_DatabaseCrud", "10_DatabaseCrud\10_DatabaseCrud.csproj", "{A247B206-245D-42D5-A97C-4A655649E17A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpEgitimKampi301.EFProject", "..\CSharpEgitimKampi301\CSharpEgitimKampi301.EFProject\CSharpEgitimKampi301.EFProject.csproj", "{7D8322B0-CB5F-4DFE-9D44-E2E33B3489F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{A247B206-245D-42D5-A97C-4A655649E17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A247B206-245D-42D5-A97C-4A655649E17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A247B206-245D-42D5-A97C-4A655649E17A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8322B0-CB5F-4DFE-9D44-E2E33B3489F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8322B0-CB5F-4DFE-9D44-E2E33B3489F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8322B0-CB5F-4DFE-9D44-E2E33B3489F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8322B0-CB5F-4DFE-9D44-E2E33B3489F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
