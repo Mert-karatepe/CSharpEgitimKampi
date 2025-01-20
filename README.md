@@ -94,7 +94,7 @@ Bu repo, Murat Yücedağ'ın liderliğinde düzenlenen **C# Eğitim Kampı** kap
 
 Bu proje, **Entity Framework** ve **LINQ** kullanarak seyahat veritabanındaki bilgileri sorgulayıp görselleştiren bir istatistik paneli geliştirmektedir. **Windows Forms** üzerinde, kullanıcıya çeşitli istatistikleri canlı olarak gösterir. 💻
 
-
+![Image](https://github.com/user-attachments/assets/6aec411b-07cb-4c9b-afb5-f6ccccae3af6)
 
 ## Proje Özellikleri:
 - Toplam lokasyon sayısı, kapasite, rehber sayısı ve ortalama kapasite/fiyat gibi genel istatistiklerin hesaplanması.
