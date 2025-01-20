@@ -66,9 +66,52 @@ Bu repo, Murat Yücedağ'ın liderliğinde düzenlenen **C# Eğitim Kampı** kap
 
 ---
 
+### 📍 Proje 10: CRUD İşlemleri
+- **CRUD Açılımı:** Create (Oluştur), Read (Oku), Update (Güncelle), Delete (Sil)
+- **Detaylar:**
+  - SQL veritabanı üzerinde temel CRUD işlemlerini gerçekleştirme.
+  - **Kategori ve Ürünler** üzerinde işlem yapma.
+  - **İşlem Detayları:**
+    - **Kategori Ekleme:**
+      - Kullanıcıdan kategori adı alınır.
+      - `INSERT INTO` sorgusu ile yeni kategori veritabanına eklenir.
+    - **Ürün Ekleme:**
+      - Ürün adı ve fiyatı kullanıcıdan alınır.
+      - `INSERT INTO` sorgusu ile yeni ürün eklenir.
+    - **Ürün Listeleme:**
+      - `SELECT * FROM TblProduct` sorgusu ile ürünler ekranda listelenir.
+    - **Ürün Silme:**
+      - Silinecek ürünün ID bilgisi kullanıcıdan alınır.
+      - `DELETE FROM TblProduct WHERE ProductId=@productId` sorgusu ile ürün silinir.
+    - **Ürün Güncelleme:**
+      - Güncellenecek ürünün ID bilgisi alınır.
+      - Yeni ürün adı ve fiyatı kullanıcıdan alınır.
+      - `UPDATE TblProduct SET ProductName=@productName, ProductPrice=@productPrice WHERE ProductId=@productId` sorgusu ile ürün güncellenir.
+
+---
+
+### 📍 Proje 11: EfTravel İstatistik
+
+Bu proje, **Entity Framework** ve **LINQ** kullanarak seyahat veritabanındaki bilgileri sorgulayıp görselleştiren bir istatistik paneli geliştirmektedir. **Windows Forms** üzerinde, kullanıcıya çeşitli istatistikleri canlı olarak gösterir. 💻
+
+
+
+## Proje Özellikleri:
+- Toplam lokasyon sayısı, kapasite, rehber sayısı ve ortalama kapasite/fiyat gibi genel istatistiklerin hesaplanması.
+- En yüksek kapasiteli ve en pahalı turların tespiti.
+- Belirli şehirler ve rehberler için detaylı analizlerin yapılması.
+- Görselleştirilmiş istatistik paneli.
+
+----
+
+
 ## 🛠️ Kullanılan Araçlar ve Teknolojiler
-- **Dil:** C#  
-- **IDE:** Visual Studio  
-- **Veritabanı:** SQL Server  
-- **Araçlar:** .NET Framework  
+- **C#**   
+- **Visual Studio**   
+- **SQL Server**  
+- **.NET Framework** 
+- **Entity Framework**.
+- **LINQ**
+
+ 
 
